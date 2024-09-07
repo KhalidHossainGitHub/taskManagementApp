@@ -45,7 +45,7 @@ To view the Task Management List on your local machine, follow these steps:
    - Right-click the ZIP file and choose **Extract All** to unzip the folder.
 
 3. **Open the project**:
-   - Navigate to the unzipped folder 
+   - Navigate to the unzipped folder.
    - Inside the folder, you'll find the `index.html,` `style.css,` `script.js,` and `bars-icon.svg`.
 
 4. **Run the project**:
